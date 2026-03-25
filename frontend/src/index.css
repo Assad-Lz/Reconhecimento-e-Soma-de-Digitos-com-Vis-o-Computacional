@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #00ff7f;
+  --color-background: #0a0a0a;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-white font-sans;
+  }
+}
+
+.glass-panel {
+  @apply bg-black/40 backdrop-blur-xl border border-white/10 rounded-3xl;
+}
+
+.neon-border {
+  @apply border border-primary/30 shadow-[0_0_15px_rgba(0,255,127,0.1)];
+}

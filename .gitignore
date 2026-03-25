@@ -47,3 +47,14 @@ uv.lock
 # OS
 .DS_Store
 Thumbs.db
+
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Tech-specific
+.task
+gesture_recognizer.task
+*.log
