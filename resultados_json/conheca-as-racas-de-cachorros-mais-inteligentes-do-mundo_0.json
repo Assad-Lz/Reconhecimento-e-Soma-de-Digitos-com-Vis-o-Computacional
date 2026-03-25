@@ -1,0 +1,30 @@
+{
+    "categoria_principal": "Cães",
+    "deteccoes": [
+        {
+            "categoria": "Cachorro",
+            "raca": "Golden Retriever",
+            "descricao": "Um cachorro da raça Golden Retriever, com pelagem dourada, está sentado e olhando para cima e para a esquerda, usando um colar azul com uma plaquinha de identificação. Sua expressão é atenta."
+        },
+        {
+            "categoria": "Cachorro",
+            "raca": "Pastor Alemão",
+            "descricao": "Um cachorro da raça Pastor Alemão, com pelagem marrom e preta, está sentado e olhando para cima e para a direita com a boca ligeiramente aberta, mostrando os dentes, indicando foco ou expectativa."
+        }
+    ],
+    "resumo_informativo": "A imagem apresenta dois cães, um Golden Retriever e um Pastor Alemão, sentados em um gramado verde, ambos com olhares atentos direcionados para cima. O Golden Retriever está à esquerda com um colar, enquanto o Pastor Alemão, à direita, tem a boca entreaberta, sugerindo antecipação.",
+    "sentimento": "Atento, calmo e expectante",
+    "cores_predominantes": [
+        "Verde",
+        "Dourado",
+        "Marrom",
+        "Preto",
+        "Azul"
+    ],
+    "elementos_secundarios": [
+        "Gramado",
+        "Colar de cachorro",
+        "Plaquinha de identificação"
+    ],
+    "localizacao_provavel": "Parque ou quintal gramado"
+}

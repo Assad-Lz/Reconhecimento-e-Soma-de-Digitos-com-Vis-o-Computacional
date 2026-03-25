@@ -1,0 +1,19 @@
+{
+    "categoria_principal": "Animais",
+    "deteccoes": [
+        {
+            "categoria": "Cachorro",
+            "raca": "Golden Retriever",
+            "descricao": "Um filhote de cachorro da raça Golden Retriever, de pelagem clara e fofa, está sentado e olhando diretamente para a câmera com uma expressão feliz, a boca ligeiramente aberta, como se estivesse sorrindo."
+        }
+    ],
+    "resumo_informativo": "A imagem mostra um adorável filhote de Golden Retriever com pelagem dourada, sentado e sorrindo para a câmera em um fundo branco. O cachorro exibe uma expressão alegre e cativante.",
+    "sentimento": "Alegre e encantador",
+    "cores_predominantes": [
+        "Dourado",
+        "Branco",
+        "Marrom"
+    ],
+    "elementos_secundarios": [],
+    "localizacao_provavel": "Estúdio fotográfico"
+}
