@@ -1,9 +1,25 @@
 # 🧮 AI Computational Vision Calculator - Neural Math
 
-![Project Banner](https://raw.githubusercontent.com/Assad-Lz/Reconhecimento-e-Soma-de-Digitos-com-Vis-o-Computacional/main/frontend/public/banner_preview.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-AI-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-Compute-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MediaPipe-Vision-0078D4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-Next-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
 ## 🚀 O Projeto
 Uma calculadora futurista baseada em gestos que utiliza **Visão Computacional Sênior** para reconhecer a contagem de dedos e realizar operações matemáticas em tempo real. O sistema foi migrado de um motor Python local para uma aplicação Web de alta performance, garantindo privacidade total (processamento 100% no cliente) e uma experiência de usuário (UX) de nível industrial.
+
+### 🖼️ Demonstração Visual
+
+#### Tela Inicial do Sistema
+![Interface Inicial](media/imagem_interface_inicial.png)
+
+#### Sistema em Execução (Soma em Tempo Real)
+![Tela do sistema funcionando](media/imagem_tela_funcionando.png)
 
 ### ✨ Funcionalidades Principais
 - **Reconhecimento 3D**: Lógica de profundidade espacial para contagem precisa de dedos.
